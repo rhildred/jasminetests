@@ -5,3 +5,7 @@ export function celsius2Fahrenheit(celsius) {
     // output
     return (fahrenheit)
 }
+
+if (import.meta.main) {
+    console.log(`celsius2Fahrenheit(100) returns ${celsius2Fahrenheit(100)}`);
+}
