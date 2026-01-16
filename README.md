@@ -10,6 +10,6 @@ npm install
 npm test
 ```
 
-The test is in the spec folder. The unit under test is functions.js.
+The tests are in the spec folder. The units under test are in the main folder (hello.js, celsius2Fahrenheit.js).
 
 
